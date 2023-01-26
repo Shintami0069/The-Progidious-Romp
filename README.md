@@ -1,2 +1,2 @@
 # The-Progidious-Romp
-A indie game made to deliver infinite journeys and tales to be unfold!
+A indie game which is made to deliver infinite journeys and tales to be unfold!
